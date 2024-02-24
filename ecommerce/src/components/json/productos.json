@@ -1,0 +1,26 @@
+[
+    {"id":1, "title": "Bombilla Rgb (ahorra energia)", "description": "Bombilla inteligente que funciona con Alexa y Google Home, bombillas LED que cambian de color, escenas preestablecidas dinámicas, bombillas A19 E26 2.4Ghz RGBTW WiFi.", "image": 
+    "https://i.postimg.cc/L6SprwZL/Bombillo-inteligente-1.jpg", 
+    "price":2500, "categoria": "iluminacion", "stock":10 },
+    {"id":2, "title": "Bombilla luz neutra (ahorra energia)", "description": "Bombilla LED inteligente A19 de 60W, luz ambiente blanca cálida a fría, paquete de 2, 800 lúmenes, E26, interior, control con aplicación Hue, Alexa, Google Assistant y Apple Homekit.", "image": 
+    "https://i.postimg.cc/BQC0spxy/Bombillo-inteligente-2.jpg", 
+    "price":4500, "categoria": "iluminacion", "stock":10},
+    {"id":3, "title": "Cerradura inteligente sencilla", "description": "Cerradura de puerta inteligente con teclado con asa: cerradura de puerta de entrada sin llave, Cerradura de puerta digital con código de teclado, Cerradura de palanca de puerta de huellas.", "image": 
+    "https://i.postimg.cc/BnQGvFpv/Cerradura-inteligente-1.jpg", 
+    "price":2000, "categoria": "cerraduras", "stock":15},
+    {"id":4, "title": "Cerradura inteligente con camara", "description": "Cerradura inteligente de video WiFi, manija de puerta inteligente de huellas dactilares, cerradura de puerta de entrada sin llave con asa, cerradura de puerta digital electrónica con teclado.", "image": 
+    "https://i.postimg.cc/5tXdBMZd/Cerradura-inteligente-2.jpg", 
+    "price":3000, "categoria": "cerraduras", "stock":15},
+    {"id":5, "title": "Enchufe inteligente polo a tierra", "description": "Enchufe Mini 15A, toma Wi-Fi para el hogar inteligente funciona con Alexa, Google Home e IFTTT, no requiere concentrador, certificado UL, solo WiFi 2.4G, paquete de 4 (EP10P4), color blanco.", "image": 
+    "https://i.postimg.cc/Dwj34zpP/enchufe-1.jpg", 
+    "price":1500, "categoria": "enchufes", "stock":10},
+    {"id":6, "title": "Enchufe para Alexa", "description": "Enchufe inteligente, funciona solo con Alexa, configuración simple con un comando de voz, control de voz, control remoto, temporizador y controlador de horario y grupo, salida de malla.", "image": 
+    "https://i.postimg.cc/XvtMxzbZ/enchufe-Solo-Alexa.jpg", 
+    "price":2700, "categoria": "enchufes", "stock":10},
+    {"id":7, "title": "Alexa Echo (4ta generación)", "description": "Echo (4ta generación) Versión Internacional, Con sonido prémium, hub de hogar inteligente y Alexa, Negro", "image": 
+    "https://i.postimg.cc/Y9F5Pzrd/Echo1.jpg", 
+    "price":1500, "categoria": "sonido", "stock":10},
+    {"id":8, "title": "Alexa Echo Studio", "description": "Nuestro parlante inteligente con el mejor sonido, con Dolby Atmos, tecnología de procesamiento de audio espacial y Alexa Carbón", "image": 
+    "https://i.postimg.cc/zv1sYH38/echo-Studiojpg.jpg", 
+    "price":2000, "categoria": "sonido", "stock":20}
+]
